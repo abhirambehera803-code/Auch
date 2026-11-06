@@ -1,0 +1,6 @@
+{
+  "name": "CalorieMate - AI Calorie & Nutrition Tracker",
+  "description": "Modern, intelligent AI calorie & macro tracker tailored for Indian and global foods with smart suggestions, wearable sync, and personal nutrition insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
